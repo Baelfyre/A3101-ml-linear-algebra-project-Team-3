@@ -902,7 +902,7 @@ Before submission, verify that:
 - [ ] filenames are clear and consistent;
 - [ ] the files are inside `Week3_Preprocessing_Submission`;
 - [ ] the GitHub commit message clearly describes the finalized Week 3 preprocessing outputs; and
-- [ ] the final repository link is ready for Coursera submission.
+- [ ] the final repository link is ready for MyCamu submission.
 
 ---
 
