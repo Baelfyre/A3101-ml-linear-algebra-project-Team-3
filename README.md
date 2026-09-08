@@ -293,7 +293,7 @@ These conditions were treated separately because they represent different proble
 - Ages above `120` are omitted.
 - Valid ages are converted to numeric values.
 
-Valid observed customer ages ranges from 18 to 70 years. The values of -1 and 180 were treated as invalid because they fall outside the observed and plausible customer age range.
+Valid observed customer ages range from 18 to 70 years. The values of -1 and 180 were treated as invalid because they fall outside the observed and plausible customer age range.
 
 ---
 
