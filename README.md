@@ -33,6 +33,7 @@ This Week 3 activity focuses on **dataset preprocessing in preparation for Miles
 
 The notebook serves as the detailed and reproducible technical record of the preprocessing workflow. This README provides a concise summary of the problem, datasets, findings, cleaning decisions, results, limitations, and Week 3 submission outputs.
 
+**Google Colab:** [Open the Week 3 ML Solution Dataset Preprocessing Notebook](https://colab.research.google.com/drive/1lbjazGCL2ae6J_jf16GifIwk81prpxle?usp=drive_link)
 ---
 
 ## Business Problem
